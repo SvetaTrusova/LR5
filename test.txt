@@ -1,2 +1,3 @@
 Test file content
 Author: Test User
+Author: Test User
